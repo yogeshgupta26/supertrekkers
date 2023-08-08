@@ -1,0 +1,77 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "css": {
+      "name": "css",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "img": {
+      "name": "img",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "js": {
+      "name": "js",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "lib": {
+      "name": "lib",
+      "isOrdered": true,
+      "folders": {
+        "animate": {
+          "name": "animate",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        },
+        "easing": {
+          "name": "easing",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        },
+        "owlcarousel": {
+          "name": "owlcarousel",
+          "isOrdered": true,
+          "folders": {
+            "assets": {
+              "name": "assets",
+              "isOrdered": true,
+              "folders": {},
+              "files": {}
+            }
+          },
+          "files": {}
+        },
+        "tempusdominus": {
+          "name": "tempusdominus",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        },
+        "waypoints": {
+          "name": "waypoints",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        },
+        "wow": {
+          "name": "wow",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        }
+      },
+      "files": {}
+    }
+  },
+  "files": {
+    "README": 0
+  }
+}
